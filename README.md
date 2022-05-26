@@ -41,8 +41,6 @@
 
 * 'ls'
 
-* 'cd My-Project'
-
 * 'cd Text-Repeater'
 
 * 'python3 Text-Repeater.py'
